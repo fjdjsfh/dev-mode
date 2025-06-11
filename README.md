@@ -64,7 +64,8 @@ https://www.figma.com/board/pbjlCrPRjafskegZByRp8N/%EA%B9%90%EB%B6%80%EB%8C%80%E
 
 ---
 
-## 🧩 pdf[깐부대출.pdf](https://github.com/user-attachments/files/20686615/2.pdf)
+## 🧩 pdf
+[깐부대출.pdf](https://github.com/user-attachments/files/20686615/2.pdf)
 
 
 
