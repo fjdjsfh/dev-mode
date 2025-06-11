@@ -52,9 +52,10 @@
 
 | 분류 | 기술 |
 |------|------|
-| 프론트엔드 | React, Tailwind CSS, Heroicons |
-| 백엔드 | Node.js (Express), Supabase, Axios |
+| 프론트엔드 | React, Tailwind CSS |
+| 백엔드 | Node.js (Express)|
 | 블록체인 | Hyperledger Fabric, Fabric SDK |
+| DB | Supabase |
 | 배포 | (로컬/테스트용) |
 
 ---
