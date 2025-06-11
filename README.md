@@ -48,6 +48,10 @@
 ![erd](https://github.com/user-attachments/assets/8f958014-6555-45cf-b3c7-eb905639cf68)
 
 ---
+## 플로우차트
+https://www.figma.com/board/pbjlCrPRjafskegZByRp8N/%EA%B9%90%EB%B6%80%EB%8C%80%EC%B6%9C-%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%B0%A8%ED%8A%B8?node-id=0-1&p=f&t=fAOdAxLmp7jvVeLX-0
+
+---
 ## ⚙️ 기술 스택
 
 | 분류 | 기술 |
