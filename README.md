@@ -7,6 +7,7 @@
 ---![기능및기대효과](https://github.com/user-attachments/assets/f02de78f-f32b-45f8-95a6-995688eef72e)
 
 
+
 ## 📸 데모 화면
 ![메인/대시보드](https://github.com/user-attachments/assets/f7a9c744-4468-4ca7-a995-e4f1ec192aee)
 
@@ -43,7 +44,10 @@
 
 
 ---
+## ERD
+![erd](https://github.com/user-attachments/assets/8f958014-6555-45cf-b3c7-eb905639cf68)
 
+---
 ## ⚙️ 기술 스택
 
 | 분류 | 기술 |
