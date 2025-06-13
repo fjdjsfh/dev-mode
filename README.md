@@ -32,11 +32,11 @@
 ### 🏦 대출 풀 (Lending Pool)
 - 대출 풀 생성 및 초기 입금
 - 최소 예치금 조건을 만족한 사용자가 참여 가능
-- 풀 기간 종료 후 이자 자동 분배
+- 풀 기간 종료 후 이자 자동 분배(예정)
 
 ### 친구 추가
 - 이메일 기반 친구 요청/수락 시스템
-- 상태가 `accepted`일 때만 P2P 대출 가능
+- 친구에게만 P2P 대출 가능
 
 ### 💰 자금 현황
 - 대출 거래 내역 조회 (대출/차입, 금액, 이자율 등)
@@ -65,7 +65,8 @@ https://www.figma.com/board/pbjlCrPRjafskegZByRp8N/%EA%B9%90%EB%B6%80%EB%8C%80%E
 ---
 
 ## 🧩 pdf
-[깐부대출.pdf](https://github.com/user-attachments/files/20686615/2.pdf)
+[결과보고서_5팀_블록체인을-활용한-깐부대출_.pdf](https://github.com/user-attachments/files/20720699/_5._.-.-._.pdf)
+
 
 
 
